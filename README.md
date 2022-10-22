@@ -11,3 +11,21 @@ arv "package manager"
 paint pad "drawing app"
 files
 update manager
+terminal
+usVM
+````
+
+# file exts
+```
+.xarv "Xnel ARchiVe Package File"
+.uxarv "Unpacked Xnel ARchiVe Package File"
+.stdownload "storm paused file"
+```
+
+# commands
+
+````
+build "fix" "compile"
+arv "install packages & Archives"
+usVM "vurtual machine manager"
+````
