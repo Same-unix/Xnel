@@ -13,6 +13,7 @@ files
 update manager
 terminal
 usVM
+beatbox "songs & .mp3 & .wav file"
 ````
 
 # file exts
@@ -29,3 +30,6 @@ build "fix" "compile"
 arv "install packages & Archives"
 usVM "vurtual machine manager"
 ````
+
+# install
+go to [Xnel download page website](https://same-unix.github.io/download.html)
