@@ -5,7 +5,7 @@ xnel is an 64 bit operating system that runs it's own kernel NOTE:`this is not a
 ## x86_64 packages
 
 ````
-birdie "text editor"
+paper "text editor"
 softbud "software center" technically a package manager 
 arv "package manager"
 netpaint "drawing app"
